@@ -56,7 +56,7 @@ pip install pandas numpy matplotlib scipy
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/sovitnayak123/portfolio-optimization.git
+   git clone [https://github.com/sovitnayak123/portfolio-optimization.git](https://github.com/sovitnayak123/portfolio_optimization)
    cd portfolio-optimization
    \`\`\`
 
